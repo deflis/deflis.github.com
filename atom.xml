@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[猫ロキPの技術ログ]]></title>
+  <link href="http://deflis.github.com/atom.xml" rel="self"/>
+  <link href="http://deflis.github.com/"/>
+  <updated>2012-07-05T03:05:52+09:00</updated>
+  <id>http://deflis.github.com/</id>
+  <author>
+    <name><![CDATA[猫ロキP(@deflis)]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
